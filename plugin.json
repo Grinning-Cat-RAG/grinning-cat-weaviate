@@ -1,0 +1,9 @@
+{
+    "name": "Grinning Cat Weaviate",
+    "description": "Introduce Weaviate handler to the Grinning Cat.",
+    "author_name": "Matteo Cacciola",
+    "tags": "weaviate, vector database, grinning cat",
+    "thumb": "",
+    "version": "0.1.0",
+    "dependencies": ["base_plugin"]
+}
