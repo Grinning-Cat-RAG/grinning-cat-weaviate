@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# local agent tooling
+.opencode
+.omo
+AGENTS.md
